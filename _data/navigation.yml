@@ -1,5 +1,15 @@
 # main links
 main:
+  - title: "소개"
+    url: /about/
+  - title: "동아리 기록"
+    url: /club-history/
+  - title: "성과"
+    url: /accomplishments/
+  - title: "동아리 대회"
+    url: /club-contests/
+  - title: '문의'
+    url: /contact/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
