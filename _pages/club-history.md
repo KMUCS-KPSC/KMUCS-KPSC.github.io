@@ -5,8 +5,6 @@ excerpt: "KPSC 동아리 기록"
 toc: true
 ---
 
-# KPSC 동아리 기록
-
 ## 역대 동아리 동아리장
 
 | 년도        | 이름   | 직책     | BOJ핸들 |

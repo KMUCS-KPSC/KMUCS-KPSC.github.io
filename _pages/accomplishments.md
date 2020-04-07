@@ -5,8 +5,6 @@ excerpt: "KPSC 동아리 성과"
 toc: true
 ---
 
-# KPSC 동아리 성과
-
 ## 참가 대회
 * ICPC
 * Google Code Jam
