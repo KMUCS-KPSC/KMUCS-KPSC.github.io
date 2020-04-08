@@ -22,7 +22,9 @@ toc: true
 | 대회명                                      | 팀명            | 팀 멤버                | #                         |
 |---------------------------------------------|-----------------|------------------------|---------------------------|
 | ICPC Seoul Regional Onsite Regional Contest | Taste Why Frame | 박정현, 윤상건, 장병준 | 18                        |
+| ICPC Seoul Regional Onsite Regional Contest | SIGHUP          | 박종흠, 이강희, 이시현 | 23                        |
 | ICPC Seoul Regional Preliminary Contest     | Taste Why Frame | 박정현, 윤상건, 장병준 | 1 / 60 (국민대 참가팀 중) |
+| ICPC Seoul Regional Preliminary Contest     | SIGHUP          | 박종흠, 이강희, 이시현 | 2 / 60 (국민대 참가팀 중) |
 | Samsung Collegiate Programming Competition  | -               | 박정현                 | Finalist                  |
 | Samsung Collegiate Programming Competition  | -               | 윤상건                 | Finalist                  |
 | Samsung Collegiate Programming Competition  | -               | 장병준                 | Finalist                  |
