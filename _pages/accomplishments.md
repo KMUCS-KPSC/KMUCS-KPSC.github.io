@@ -15,6 +15,7 @@ toc: true
 
 | 대회명                                | 팀명 | 팀 멤버 | #              |
 | ------------------------------------- | ---- | ------- | -------------- |
+| Google Code Jam - Round 1A            | -    | 윤상건  | 1,165 / 11,937 |
 | Google Code Jam - Qualification Round | -    | 윤상건  | 475 / 44,434   |
 | Google Code Jam - Qualification Round | -    | 박정현  | 2,934 / 44,434 |
 
