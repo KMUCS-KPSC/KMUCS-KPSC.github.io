@@ -9,6 +9,7 @@ toc: true
 * ICPC - International Collegiate Programming Contest
 * UCPC - 전국 대학생 프로그래밍 대회 동아리 연합 대회
 * Google Code Jam
+* Google Kick Start
 * SCPC - Samsung Collegiate Programming Competition
 * 국민대학교 교내 알고리즘 경진대회
 
@@ -18,6 +19,7 @@ toc: true
 | ------------------------------------- | ---- | ------- | -------------- |
 | UCPC 2020 예선                         | Taste Why Frame | [박정현](http://boj.kr/u/pjh9996), [윤상건](http://boj.kr/u/ggj06281), [장병준](http://boj.kr/u/sunjbs98)  | 26 / 298  |
 | UCPC 2020 예선                         | algo-know-yeah | [김신건](http://boj.kr/u/singun11), [서형빈](http://boj.kr/u/antifly55), [최성훈](http://boj.kr/u/loes353)  | 75 / 298  |
+| Google Kick Start - Round B           | -               | [윤상건](http://boj.kr/u/ggj06281)  | 791 (🇰🇷22) / 10,289  |
 | Google Code Jam - Round 2             | -               | [윤상건](http://boj.kr/u/ggj06281)  | 1,980 / 4,500  |
 | Google Code Jam - Round 1A            | -               | [윤상건](http://boj.kr/u/ggj06281)  | 1,165 / 11,937 |
 | Google Code Jam - Qualification Round | -               | [윤상건](http://boj.kr/u/ggj06281)  | 475 / 44,434   |
