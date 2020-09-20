@@ -57,7 +57,7 @@ KPSC 동아리에서 개최하는 알고리즘 경시 대회입니다. 신입 �
 * KPSC 2020-1 Welcome Contest
     * 시간: 3/28(토) 0시 0분 ~ 4/3(금) 23시 59분(7일간)
     * 장소: 온라인
-    * 출제자: 박정현 ([pjh9996](https://www.acmicpc.net/user/pjh9996)), 윤상건 ([ggj06281](https://www.acmicpc.net/user/ggj06281))
+    * 출제자: [박정현](https://www.acmicpc.net/user/pjh9996), [윤상건](https://www.acmicpc.net/user/ggj06281)
     * [대회 결과](https://github.com/KMUCS-KPSC/Welcome-Contest#KPSC-2020-1-환영대회)
     * [에디토리얼](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Editorial/KPSC 2020-1 환영대회 에디토리얼.md)
     * 1등: 장병준 ([sunjbs98](https://www.acmicpc.net/user/sunjbs98))
