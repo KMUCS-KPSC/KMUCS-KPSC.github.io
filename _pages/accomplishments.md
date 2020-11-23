@@ -17,6 +17,7 @@ toc: true
 
 | 대회명                                | 팀명 | 팀 멤버 | #              |
 | ------------------------------------- | ---- | ------- | -------------- |
+| [ACM-ICPC Asia Seoul Regional Contest](https://icpc.global/regionals/finder/Seoul-2020/standings)     | Taste Why Frame | [박정현](http://boj.kr/u/pjh9996), [윤상건](http://boj.kr/u/ggj06281), [장병준](http://boj.kr/u/sunjbs98) | 15 |
 | [ICPC Seoul Regional Preliminary Contest](http://icpckorea.org/2020/preliminary/scoreboard/dbda78f0e4/)     | Taste Why Frame | [박정현](http://boj.kr/u/pjh9996), [윤상건](http://boj.kr/u/ggj06281), [장병준](http://boj.kr/u/sunjbs98) | 33 / 365 (국민대 참가팀 중: 1 / 11) |
 | [UCPC 2020 예선](https://ucpc.acmicpc.net/contest/spotboard/521)                         | Taste Why Frame | [박정현](http://boj.kr/u/pjh9996), [윤상건](http://boj.kr/u/ggj06281), [장병준](http://boj.kr/u/sunjbs98)  | 26 / 298  |
 | [UCPC 2020 예선](https://ucpc.acmicpc.net/contest/spotboard/521)                         | algo-know-yeah | [김신건](http://boj.kr/u/singun11), [서형빈](http://boj.kr/u/antifly55), [최성훈](http://boj.kr/u/loes353)  | 75 / 298  |
